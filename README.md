@@ -1,2 +1,1 @@
-# Programacion-C
-tp facultad
+# tp_laboratorio_1
